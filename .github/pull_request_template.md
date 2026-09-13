@@ -7,3 +7,12 @@
 - [ ] My module does is not malicious and will not cause any unwanted behaviour.
 - [ ] My module does not require any plugins that are not part of this PR.
 - [ ] I will try to maintain this module and acknowledge that the module may be removed if it remains unmaintained.
+
+## Generative AI assistance
+
+AI assistance: none
+
+Change `none` to `trivial` for exempt single-line completions, renames, or
+formatting. Change it to `disclosed` when assisted commits contain the
+`Assisted-by` and `AI-Scope` trailers required by
+[AGENTS.md](https://github.com/Vanilla-OS/vib-shared-modules/blob/main/AGENTS.md).
